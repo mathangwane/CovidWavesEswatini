@@ -1,7 +1,7 @@
 import pandas as pd 
 from matplotlib import pyplot as plt
 
-#plt.xkcd()
+plt.xkcd()
 plt.style.use('seaborn')
 
 data = pd.read_csv('data/wave1.csv')
