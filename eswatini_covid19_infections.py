@@ -27,7 +27,7 @@ plt.plot(Infection_Day3, Infection_Number3, marker=None, linestyle='solid')
 plt.plot(Infection_Day4, Infection_Number4, marker=None, linestyle='solid')
 
 plt.title('Covid Waves in Eswatini \n (Data Source: Government of Eswatini)')
-plt.xlabel('Number of Days Since Start of Wave \n Graphic by Mathangwane (github.com/mathangwane/eswatinicovidstats)')
+plt.xlabel('Number of Days Since Start of Wave \n Graphic by Mathangwane (https://github.com/mathangwane/)')
 plt.ylabel('Confirmed Infections (7-Day Moving Average)')
 
 plt.tight_layout()
